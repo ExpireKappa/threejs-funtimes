@@ -1,0 +1,8 @@
+.scene-container {
+    height: 100vh;
+    flex-grow: 2;
+}
+
+.scene-root {
+    display: flex;
+}

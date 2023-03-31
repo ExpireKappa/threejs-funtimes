@@ -1,0 +1,6 @@
+.scene-info {
+    position: absolute;
+    transform: translateY(0%);
+    padding: 10px;
+    border: solid thin black;
+}

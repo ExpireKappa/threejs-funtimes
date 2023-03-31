@@ -1,0 +1,5 @@
+.model-sidebar-container {
+    width: 20%;
+    border-left: solid medium black;
+    padding: 5px;
+}
